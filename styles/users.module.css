@@ -1,0 +1,29 @@
+.userList{
+    display: flex;
+    /* background: #000; */
+    width: 100%;
+    justify-content: space-around;
+    padding: 0 4rem;
+}
+.field{
+    flex:0.6;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* background: #000; */
+}
+.fieldValue{
+    flex:0.6;
+    color: hsl(210,8%,45%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: #000; */
+    font-size: 20px;
+}
+.img
+{
+    height: 30px;
+    margin-left: 30px;
+    /* background: #000; */
+}
